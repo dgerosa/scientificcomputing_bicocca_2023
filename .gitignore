@@ -20,3 +20,4 @@ syllabus.out
 *.fodp
 
 _build
+.DS_Store
