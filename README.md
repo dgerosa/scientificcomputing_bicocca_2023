@@ -10,3 +10,6 @@ Contributions are welcomed.
 
 
 
+## Davide
+
+1. Python. Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O.
