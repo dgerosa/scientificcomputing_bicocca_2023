@@ -1,3 +1,4 @@
+
 # Scientific Computing with Python
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
@@ -10,8 +11,9 @@ The python programming language and its library ecosystem are now an essential t
 ## Lectures
 
 
-1. [Python](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O.
-2. ...
+1. [Python](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
+2. [Numpy](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
+3. [Matplotlib](lectures/L03_matplotlib.ipynb). OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
 
 ## Schedule
 
