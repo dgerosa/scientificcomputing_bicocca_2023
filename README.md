@@ -14,6 +14,7 @@ The python programming language and its library ecosystem are now an essential t
 1. [Python](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
 2. [Numpy](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
 3. [Matplotlib](lectures/L03_matplotlib.ipynb). OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
+4. [Scipy](lectures/L04_scipy.ipynb). 
 
 ## Schedule
 
@@ -33,12 +34,14 @@ There are infinitely many textbooks on scientific computing. Three that I think 
 
 ### Classes
 
-Here are some similar courses which you might find useful:
+Here are some classes similar to this one which you might find useful:
 
-- ["Python for Scientific Computing"](https://sbu-python-class.github.io/python-science/Introduction.html), M. Zingale et al.
+- ["Scientific Computing with Python"](https://github.com/caam37830/book) University of Chicago, USA.
+- ["Python for Scientific Computing"](https://sbu-python-class.github.io/python-science/Introduction.html), Stony Brook University, USA
+- ["Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), University of Heidelberg, Germany.
+- ["Python for Scientific Computing"](https://aaltoscicomp.github.io/python-for-scicomp/), Aalto University, Finland.
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
-- ["Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
-- ["Python for Scientific Computing"](https://aaltoscicomp.github.io/python-for-scicomp/), R. Darst et al. 
+
 
 
 
