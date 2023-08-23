@@ -14,7 +14,7 @@ The python programming language and its library ecosystem are now an essential t
 1. [Python](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
 2. [Numpy](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
 3. [Matplotlib](lectures/L03_matplotlib.ipynb). OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
-4. [Scipy](lectures/L04_scipy.ipynb). 
+4. [Scipy](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra. *Exercises.*  
 
 ## Schedule
 
