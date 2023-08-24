@@ -11,10 +11,11 @@ The python programming language and its library ecosystem are now an essential t
 ## Lectures
 
 
-1. [Python](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
-2. [Numpy](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
-3. [Matplotlib](lectures/L03_matplotlib.ipynb). OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
-4. [Scipy](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra. *Exercises.*  
+1. [**Introduction: python**](lectures/L01_python.ipynb). Why. Basics. Datatypes. Control flow (if/for/while). Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
+2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
+3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
+4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra. *Exercises.* 
+5. [**Symbolic maths: sympy**](lectures/L05_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units. *Exercises.* 
 
 ## Schedule
 
