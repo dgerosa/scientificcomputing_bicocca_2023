@@ -11,15 +11,18 @@ The python programming language and its library ecosystem are now an essential t
 ## Lectures
 
 
-1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. *Exercises.*
-2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. *Exercises.*
-3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces. *Exercises.*  
-4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra. *Exercises.* 
-5. [**Symbolic maths: sympy**](lectures/L05_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units. *Exercises.* 
-6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation. *Exercises.* 
-7. [**Version control: git**](lectures/L07_git.ipynb).
-8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment. *Exercises.* 
+1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. 
+2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
+3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
+4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra.
+5. [**Symbolic maths: sympy**](lectures/L05_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
+6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation.  
+7. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
+8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment.
 9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb).
+
+
+Each lecture has some exercises at the end.
 
 
 ## Schedule

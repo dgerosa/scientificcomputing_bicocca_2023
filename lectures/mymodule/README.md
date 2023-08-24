@@ -1,2 +1,4 @@
 # mymodule
-a demonstration of python packaging
+
+
+I love python packages
