@@ -17,7 +17,7 @@ def mandelbrot(nx, xmin=-2.0, xmax=2.0, ymin=-2.0, ymax=2.0, max_iter=10):
 
     z = np.zeros((nx, nx), dtype=np.complex128)
 
-    m = np.zeros((nx, nx), dtype=np.int)
+    m = np.zeros((nx, nx), dtype=int)
 
     for i in range(max_iter):
         z = z**2 + c
