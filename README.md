@@ -19,6 +19,7 @@ The python programming language and its library ecosystem are now an essential t
 6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation. *Exercises.* 
 7. [**Version control: git**](lectures/L07_git.ipynb).
 8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment. *Exercises.* 
+9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb).
 
 
 ## Schedule
