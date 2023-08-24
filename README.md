@@ -69,4 +69,4 @@ This class is built on top of that taught by [Michael Zingale](https://github.co
   <img src="https://imgs.xkcd.com/comics/python.png" />
 </p>
 
-Credit: [xkcd 2582](https://xkcd.com/353/). This actually a Python aster egg... You can truly `pip install antigravity` and `import antigravity`. Try!
+Credit: [xkcd 2582](https://xkcd.com/353/). This actually a Python easter egg... You can truly `pip install antigravity` and `import antigravity`. Try!
