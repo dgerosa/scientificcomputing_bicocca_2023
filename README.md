@@ -10,7 +10,6 @@ The python programming language and its library ecosystem are an essential tool 
 
 ## Lectures
 
-
 1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. 
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
 3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
@@ -27,7 +26,7 @@ Each lecture has some exercises at the end.
 
 ## Schedule
 
-TBC
+TBC. Likely going to be between mid-November and mid-December 2023.
 
 
 ## Resources
