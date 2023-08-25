@@ -26,7 +26,7 @@ Each lecture has some exercises at the end.
 
 ## Schedule
 
-TBC
+TBC. Likely going to be between mid-November and mid-December 2023.
 
 
 ## Resources
