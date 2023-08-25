@@ -32,7 +32,7 @@ TBC
 
 ## Resources
 
-#### Texbooks
+### Texbooks
 
 There are infinitely many textbooks on scientific computing. Here are three that I think are particularly useful:
 
@@ -49,7 +49,7 @@ This one is more advanced. It's ideal for sharpening your existing Python skills
 Perhaps a bit outdated, but the really nice thing about this textbook is that has a bit of everything you might need for science, not just python. Things like command line operations, data visualization, regular expressions, version control, debugging, latex, etc). This book is a perfect companion when starting your PhD.
 
  
-#### Classes
+### Classes
 
 Here are some classes similar to this one which you might find useful:
 
@@ -59,6 +59,7 @@ Here are some classes similar to this one which you might find useful:
 - ["Python for Scientific Computing"](https://aaltoscicomp.github.io/python-for-scicomp/), Aalto University, Finland.
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - ["Python for Astronomers"](https://astro.uni-bonn.de/~rschaaf/Python2008/), University of Bonn, Germany. 
+- ["Google's python class"](https://developers.google.com/edu/python), Google. 
 
 
 ## Credits
