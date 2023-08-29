@@ -26,6 +26,8 @@ Each lecture has some exercises at the end.
 
 ## Schedule
 
+For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards 2 CFU (16 hours). 
+
 TBC. Likely going to be between mid-November and mid-December 2023.
 
 
