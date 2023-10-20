@@ -6,7 +6,8 @@ University of Milano-Bicocca, 2023.
 
 ## Aims
 
-The python programming language and its library ecosystem are an essential tool in modern science. This class provides an advanced introduction to phython and its main functionalities, focusing in particular on its applications to computational physics. Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, symbolic manipulation with sympy, just-in-time compilating with numba, module packaging, and unit testing. I will also introduce other essential computational tools such as the git version-control protocol. The format will be highly interactive and tailored to the research interests of the participants. 
+The python programming language and its library ecosystem are an essential tools in modern science. This class provides an advanced introduction to python and its main functionalities, focusing in particular on its applications to computational physics.
+Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, symbolic manipulation with Mathematica, just-in-time compilating with numba, module packaging, and unit testing. I will also introduce other essential computational tools such as the git version-control protocol. The format will be highly interactive and tailored to the research interests of the participants. 
 
 ## Lectures
 
