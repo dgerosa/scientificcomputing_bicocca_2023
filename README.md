@@ -39,9 +39,7 @@ Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computationa
 - Mon Jan 8, 10.30-12.30
 - Tue Jan 9, 10.30-12.30
 - Mon Jan 15, 10.30-12.30
-- Tue Jan 16, 10.30-12.30 (backup time in case we need to skip one) 
-
-
+- Tue Jan 16, 10.30-12.30 (backup slot in case we need to skip one) 
 
 
 ## Resources
