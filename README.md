@@ -29,12 +29,24 @@ Each lecture has some exercises at the end.
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards 2 CFU (16 hours). 
 
-Class times TBC, likely between mid-November and mid-December 2023.
+Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
+
+- Tue Nov 21, 10.30-12.30
+- Mon Nov 27, 10.30-12.30
+- Tue Nov 28, 10.30-12.30
+- Mon Dec 4, 10.30-12.30
+- Tue Dec 5, 10.30-12.30
+- Mon Jan 8, 10.30-12.30
+- Tue Jan 9, 10.30-12.30
+- Mon Jan 15, 10.30-12.30
+- Tue Jan 16, 10.30-12.30 (backup time in case we need to skip one) 
+
+
 
 
 ## Resources
 
-### Texbooks
+### Textbooks
 
 There are infinitely many textbooks on scientific computing. Here are three that I think are particularly useful.
 
