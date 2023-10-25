@@ -2,7 +2,7 @@
 # Scientific Computing with Python
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
-University of Milano-Bicocca, 2023.
+University of Milano-Bicocca, 2023-2024.
 
 ## Aims
 
@@ -30,15 +30,15 @@ For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this c
 
 Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
 
-- Tue Nov 21, 10.30-12.30
-- Mon Nov 27, 10.30-12.30
-- Tue Nov 28, 10.30-12.30
-- Mon Dec 4, 10.30-12.30
-- Tue Dec 5, 10.30-12.30
-- Mon Jan 8, 10.30-12.30
-- Tue Jan 9, 10.30-12.30
-- Mon Jan 15, 10.30-12.30
-- Tue Jan 16, 10.30-12.30 (backup slot in case we need to skip one) 
+- Tue Nov 21, 2023 - 10.30-12.30
+- Mon Nov 27, 2023 - 10.30-12.30
+- Tue Nov 28, 2023 - 10.30-12.30
+- Mon Dec 4, 2023 - 10.30-12.30
+- Tue Dec 5, 2023 - 10.30-12.30
+- Mon Jan 8, 2024 - 10.30-12.30
+- Tue Jan 9, 2024- 10.30-12.30
+- Mon Jan 15, 2024 - 10.30-12.30
+- Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
 
 
 ## Resources
