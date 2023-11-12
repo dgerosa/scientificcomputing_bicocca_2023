@@ -82,6 +82,8 @@ For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this c
 
 Each lecture has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 1/4 of the exercises provided** (or a bit more/less if you like the easy/hard ones). This is to reflect the different needs of your research fields. So I encourage you to cherry-pick the topics you're most interested in and that will be more relevant to your PhD. 
 
+Please fork this repository and add your codes in the `working` directory **of your fork**.
+
 Exams will be by appointment: shoot me an email and we'll set a time. Also, let me know the list of the exercises you plan to prepare and I'll approve it beforehand. My office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
 
 
