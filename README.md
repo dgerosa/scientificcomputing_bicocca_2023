@@ -24,23 +24,6 @@ The python programming language and its library ecosystem are essential tools in
 Each lecture has some exercises at the end.
 
 
-## Schedule
-
-For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards 2 CFU (16 hours). 
-
-Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
-
-- Tue Nov 21, 2023 - 10.30-12.30
-- Mon Nov 27, 2023 - 10.30-12.30
-- Tue Nov 28, 2023 - 10.30-12.30
-- Mon Dec 4, 2023 - 10.30-12.30
-- Tue Dec 5, 2023 - 10.30-12.30
-- Mon Jan 8, 2024 - 10.30-12.30
-- Tue Jan 9, 2024- 10.30-12.30
-- Mon Jan 15, 2024 - 10.30-12.30
-- Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
-
-
 ## Resources
 
 ### Textbooks
@@ -56,8 +39,6 @@ There are infinitely many textbooks on scientific computing. Here are three that
 3. Perhaps a bit outdated, but the really nice thing about this textbook is that has a bit of everything you might need for science, not just python. Things like command line operations, data visualization, regular expressions, version control, debugging, latex, etc). This book is a perfect companion when starting your PhD.
     - *["Effective Computation in Physics"](https://www.oreilly.com/library/view/effective-computation-in/9781491901564/), A. Scopatz, K. D. Huff, O'Reilly Media, 2015.*
 
-
- 
 ### Classes
 
 Here are some classes similar to this one which you might find useful:
@@ -69,6 +50,33 @@ Here are some classes similar to this one which you might find useful:
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - ["Python for Astronomers"](https://astro.uni-bonn.de/~rschaaf/Python2008/), University of Bonn, Germany. 
 - ["Google's python class"](https://developers.google.com/edu/python), Google. 
+
+
+## Logistics:
+
+For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards 2 CFU (16 hours). 
+
+### Schedule
+
+Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
+
+- Tue Nov 21, 2023 - 10.30-12.30
+- Mon Nov 27, 2023 - 10.30-12.30
+- Tue Nov 28, 2023 - 10.30-12.30
+- Mon Dec 4, 2023 - 10.30-12.30
+- Tue Dec 5, 2023 - 10.30-12.30
+- Mon Jan 8, 2024 - 10.30-12.30
+- Tue Jan 9, 2024- 10.30-12.30
+- Mon Jan 15, 2024 - 10.30-12.30
+- Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
+
+### Exams
+
+Exams will be light touch and without grades (i.e. just approved / not approved). 
+
+Each lecture has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 1/4 of the exercises provided** (or a bit more/less if you like the easy/hard ones). This is to reflect the different needs of your research fields. So I encourage you to cherry-pick the topics you're most interested in and that will be more relevant to your PhD. 
+
+Exams will be by appointment: shoot me an email and we'll set a time. Also, let me know the list of the exercises you plan to prepare and I'll approve it beforehand. My office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
 
 
 ## Credits
