@@ -55,6 +55,9 @@ Here are some classes similar to this one which you might find useful:
 - ["Python for Astronomers"](https://astro.uni-bonn.de/~rschaaf/Python2008/), University of Bonn, Germany. 
 - ["Google's python class"](https://developers.google.com/edu/python), Google. 
 
+### Recordings
+
+For students at Milano-Bicocca, recordings are stored at [elearning.unimib.it/course/view.php?id=53206](https://elearning.unimib.it/course/view.php?id=53206)
 
 ## Logistics:
 
