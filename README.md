@@ -8,7 +8,7 @@ University of Milano-Bicocca, 2023-2024.
 
 The python programming language and its library ecosystem are essential tools in modern science. This class provides an advanced introduction to python and its main functionalities, focusing in particular on its applications to computational physics. Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, just-in-time compilating with numba, module packaging, and unit testing. I will also introduce other essential computational tools, notably Mathematica for symbolic manipulation and git for version control. The format will be highly interactive and tailored to the research interests of the participants.
 
-## Content
+## Lectures
 
 1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. 
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
