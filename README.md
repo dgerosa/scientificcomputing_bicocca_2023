@@ -14,13 +14,14 @@ The python programming language and its library ecosystem are essential tools in
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
 3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
 4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra.
-5. [**Symbolic maths: mathematica**](TODO)
+5. [**Symbolic maths: mathematica**](TODO) TODO
 6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation.  
 7. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
 8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment.
 9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb). Unit tests. Automated tests. Benchmark tests.
 
 Other (not covered in class):
+
 10. [**Symbolic maths: sympy**](lectures/L10_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
 
 
@@ -61,31 +62,30 @@ Here are some classes similar to this one which you might find useful:
 
 Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
 
-- Tue Nov 21, 2023 - 10.30-12.30
-- Mon Nov 27, 2023 - 10.30-12.30
-- Tue Nov 28, 2023 - 10.30-12.30
-- Mon Dec 4, 2023 - 10.30-12.30
-- Tue Dec 5, 2023 - 10.30-12.30
-- Mon Jan 8, 2024 - 10.30-12.30
-- Tue Jan 9, 2024- 10.30-12.30
-- Mon Jan 15, 2024 - 10.30-12.30
-- Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
+1. Tue Nov 21, 2023 - 10.30-12.30
+2. Mon Nov 27, 2023 - 10.30-12.30
+3. Tue Nov 28, 2023 - 10.30-12.30
+4. Mon Dec 4, 2023 - 10.30-12.30
+5. Tue Dec 5, 2023 - 10.30-12.30
+6. Mon Jan 8, 2024 - 10.30-12.30
+7. Tue Jan 9, 2024- 10.30-12.30
+8. Mon Jan 15, 2024 - 10.30-12.30
+9. Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one lecture) 
 
 ### Prerequisite
 
-- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macos and anaconda on Windows.
+- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macOs and anaconda on Windows.
 - Also, install Mathematica (this is free for Milano-Bicocca PhD students, see [here](https://www.unimib.it/servizi/studenti-e-laureati/service-desk/software-campus), otherwise you can get a 30-day free trial).
 
 ### Exams
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
-Each lecture has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 1/4 of the exercises provided** (or a bit more/less if you like the easy/hard ones). This is to reflect the different needs of your research fields. So I encourage you to cherry-pick the topics you're most interested in and that will be more relevant to your PhD. 
+Each notebook has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Please fork this repository and add your codes in the `working` directory **of your fork**.
 
-Please fork this repository and add your codes in the `working` directory **of your fork**.
+Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 3 exercises for each lecture** (see the notebooks). This is to reflect the different needs of your research fields. You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see they are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. Try to pick a good mix (not all short, not all long). Feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*. Let's keep it flexible.
 
-Exams will be by appointment: shoot me an email and we'll set a time. Also, let me know the list of the exercises you plan to prepare and I'll approve it beforehand. My office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
-
+Exams are by appointment; my office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
 
 ## Credits
 
