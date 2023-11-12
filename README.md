@@ -57,7 +57,7 @@ Here are some classes similar to this one which you might find useful:
 
 ### Recordings
 
-For students at Milano-Bicocca, recordings are stored at [elearning.unimib.it/course/view.php?id=53206](https://elearning.unimib.it/course/view.php?id=53206)
+For students at Milano-Bicocca, recordings are available at [elearning.unimib.it/course/view.php?id=53206](https://elearning.unimib.it/course/view.php?id=53206)
 
 ## Logistics:
 
