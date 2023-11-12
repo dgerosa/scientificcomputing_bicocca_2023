@@ -84,11 +84,11 @@ Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computationa
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
-Each notebook has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Please fork this repository and add your codes in the `working` directory **of your fork**.
+Each notebook has some exercises at the end. During the exam, we will go through (some of) your codes and discuss what you've done. Please fork this repository and add your codes in the `working` directory **of your fork**.
 
-Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 3 exercises for each lecture** (see the notebooks). This is to reflect the different needs of your research fields. You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see they are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. Try to pick a good mix (not all short, not all long). Feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*. Let's keep it flexible.
+Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see the exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. Feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
 
-Exams are by appointment; my office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
+Exams are by appointment, my office is room U2-2007. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
 
 ## Credits
 
