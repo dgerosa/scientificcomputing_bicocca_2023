@@ -8,17 +8,18 @@ University of Milano-Bicocca, 2023-2024.
 
 The python programming language and its library ecosystem are essential tools in modern science. This class provides an advanced introduction to python and its main functionalities, focusing in particular on its applications to computational physics. Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, just-in-time compilating with numba, module packaging, and unit testing. I will also introduce other essential computational tools, notably Mathematica for symbolic manipulation and git for version control. The format will be highly interactive and tailored to the research interests of the participants.
 
-## Lectures
+## Content
 
 1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. 
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
 3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
 4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra.
-5. [**Symbolic maths: sympy**](lectures/L05_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
-6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation.  
-7. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
-8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment.
-9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb). Unit tests. Automated tests. Benchmark tests.
+5. [**Symbolic maths: mathematica**](TODO)
+6. [**Symbolic maths: sympy**](lectures/L05_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
+7. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation.  
+8. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
+9. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment.
+10. [**Unit testing: pytest**](lectures/L09_pytest.ipynb). Unit tests. Automated tests. Benchmark tests.
 
 
 Each lecture has some exercises at the end.
