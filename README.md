@@ -55,8 +55,6 @@ Here are some classes similar to this one which you might find useful:
 
 ## Logistics:
 
-For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards 2 CFU (16 hours). 
-
 ### Schedule
 
 Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
@@ -71,9 +69,14 @@ Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computationa
 - Mon Jan 15, 2024 - 10.30-12.30
 - Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
 
+### Prerequisite
+
+- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macos and anaconda on Windows.
+- Also, install Mathematica (this is free for Milano-Bicocca PhD students, see [here](https://www.unimib.it/servizi/studenti-e-laureati/service-desk/software-campus), otherwise you can get a 30-day free trial).
+
 ### Exams
 
-Exams will be light touch and without grades (i.e. just approved / not approved). 
+For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
 Each lecture has some exercises at the end. During the exam, we will go through your codes and discuss what you've done. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 1/4 of the exercises provided** (or a bit more/less if you like the easy/hard ones). This is to reflect the different needs of your research fields. So I encourage you to cherry-pick the topics you're most interested in and that will be more relevant to your PhD. 
 
