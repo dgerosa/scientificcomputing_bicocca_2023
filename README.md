@@ -21,6 +21,7 @@ The python programming language and its library ecosystem are essential tools in
 9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb). Unit tests. Automated tests. Benchmark tests.
 
 Other (not covered in class):
+
 10. [**Symbolic maths: sympy**](lectures/L10_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
 
 
@@ -61,19 +62,19 @@ Here are some classes similar to this one which you might find useful:
 
 Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
 
-- Tue Nov 21, 2023 - 10.30-12.30
-- Mon Nov 27, 2023 - 10.30-12.30
-- Tue Nov 28, 2023 - 10.30-12.30
-- Mon Dec 4, 2023 - 10.30-12.30
-- Tue Dec 5, 2023 - 10.30-12.30
-- Mon Jan 8, 2024 - 10.30-12.30
-- Tue Jan 9, 2024- 10.30-12.30
-- Mon Jan 15, 2024 - 10.30-12.30
-- Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one) 
+1. Tue Nov 21, 2023 - 10.30-12.30
+2. Mon Nov 27, 2023 - 10.30-12.30
+3. Tue Nov 28, 2023 - 10.30-12.30
+4. Mon Dec 4, 2023 - 10.30-12.30
+5. Tue Dec 5, 2023 - 10.30-12.30
+6. Mon Jan 8, 2024 - 10.30-12.30
+7. Tue Jan 9, 2024- 10.30-12.30
+8. Mon Jan 15, 2024 - 10.30-12.30
+9. Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one lecture) 
 
 ### Prerequisite
 
-- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macos and anaconda on Windows.
+- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macOs and anaconda on Windows.
 - Also, install Mathematica (this is free for Milano-Bicocca PhD students, see [here](https://www.unimib.it/servizi/studenti-e-laureati/service-desk/software-campus), otherwise you can get a 30-day free trial).
 
 ### Exams
