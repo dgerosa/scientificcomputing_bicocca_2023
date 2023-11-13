@@ -77,7 +77,8 @@ Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computationa
 
 ### Prerequisites
 
-- Please come to class with your laptop. Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macOs and anaconda on Windows.
+- Please come to class with your laptop.
+- Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macOs and anaconda on Windows.
 - Also, install Mathematica (this is free for Milano-Bicocca PhD students, see [here](https://www.unimib.it/servizi/studenti-e-laureati/service-desk/software-campus), otherwise you can get a 30-day free trial).
 
 ### Exams
