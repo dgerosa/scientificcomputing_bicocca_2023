@@ -63,9 +63,9 @@ For students at Milano-Bicocca, recordings are available at [elearning.unimib.it
 
 ### Schedule
 
-Classes will be in room U2-2026 of the Bicocca campus ("Marco Comi" computational physics lab). Here is our timetable:
+Here is our timetable:
 
-1. Tue Nov 21, 2023 - 10.30-12.30
+1. Tue Nov 21, 2023 - 10.30-12.30 - Room U2.06
 2. Mon Nov 27, 2023 - 10.30-12.30
 3. Tue Nov 28, 2023 - 10.30-12.30
 4. Mon Dec 4, 2023 - 10.30-12.30
