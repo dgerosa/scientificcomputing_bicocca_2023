@@ -85,7 +85,7 @@ Here is our timetable:
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
-Each notebook has some exercises at the end. Please fork this repository and add your codes to the `working` directory **of your fork**. I still need to iron out details, but I'm thinking about a format where students submit their codes and find bugs in those written by another student. After you've passed the exam, please send an email to the Physics PhD secretary with me in cc. 
+Each notebook has some exercises at the end. Please fork this repository and add your codes to the `working` directory **of your fork**. I still need to iron out details, but I'm thinking about a format where students submit their codes and find bugs in those written by another student.
 
 Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see the exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. If in doubt, feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
 
