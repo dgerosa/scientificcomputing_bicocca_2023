@@ -66,14 +66,14 @@ For students at Milano-Bicocca, recordings are available at [elearning.unimib.it
 Here is our timetable:
 
 1. Tue Nov 21, 2023 - 10.30-12.30 - Room U2.06
-2. Mon Nov 27, 2023 - 10.30-12.30
-3. Tue Nov 28, 2023 - 10.30-12.30
-4. Mon Dec 4, 2023 - 10.30-12.30
-5. Tue Dec 5, 2023 - 10.30-12.30
-6. Mon Jan 8, 2024 - 10.30-12.30
-7. Tue Jan 9, 2024- 10.30-12.30
-8. Mon Jan 15, 2024 - 10.30-12.30
-9. Tue Jan 16, 2024 - 10.30-12.30 (backup slot in case we need to skip one lecture) 
+2. Mon Nov 27, 2023 - 10.30-12.30 - Room U4.06
+3. Tue Nov 28, 2023 - 10.30-12.30 - Room U2.06
+4. Mon Dec 4, 2023 - 10.30-12.30 - Room U4.06
+5. Tue Dec 5, 2023 - 10.30-12.30 - Room U4.07
+6. Mon Jan 8, 2024 - 10.30-12.30 - Room U4.06
+7. Tue Jan 9, 2024- 10.30-12.30 - Room U4.06
+8. Mon Jan 15, 2024 - 10.30-12.30 - Room U2.04
+9. Tue Jan 16, 2024 - 10.30-12.30 - Room U4.06 (backup slot in case we need to skip one lecture) 
 
 ### Prerequisites
 
