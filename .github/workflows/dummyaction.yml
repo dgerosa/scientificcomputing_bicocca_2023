@@ -16,3 +16,11 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - run: ls -R ${{ github.workspace }} >> myls.txt
+        - uses: actions/upload-artifact@v2
+          with:
+            name: myls.txt
