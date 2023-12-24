@@ -16,7 +16,7 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-  Explore-GitHub-Actions:
+  Now-save-a-file:
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@v2
