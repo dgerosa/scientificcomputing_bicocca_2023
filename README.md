@@ -14,7 +14,7 @@ The python programming language and its library ecosystem are essential tools in
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
 3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
 4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra.
-5. [**Symbolic maths: mathematica**](lectures/L05_mathematica.ipynb) Simplification. Solvers. Calculus. Differential Equations
+5. [**Symbolic maths: mathematica**](lectures/L05_mathematica.nb) Simplification. Solvers. Calculus. Differential Equations
 6. [**Go faster: numba and multiprocessing**](lectures/L06_numba_multiprocessing.ipynb). Python extensions. Decorators. Just-in-time compilation. Notions of parallel computing. Embarrassingly parallel tasks. 
 7. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
 8. [**Code development: pytest and pip**](lectures/L08_pytest_pip.ipynb). Module setup. Installation. Usage. Deployment. Unit tests. Automated tests. Benchmark tests. Unit tests. Automated tests. Benchmark tests.
