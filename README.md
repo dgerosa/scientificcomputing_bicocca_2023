@@ -21,8 +21,8 @@ The python programming language and its library ecosystem are essential tools in
 
 Other (not covered in class):
 
-10. [**Symbolic maths: sympy**](lectures/L10_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
-11. [**Data manipulation: pandas**](lectures/L11_pandas.ipynb). When I find the time I would like to prepare something about pandas.
+9. [**Symbolic maths: sympy**](lectures/L09_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
+10. [**Data manipulation: pandas**](lectures/L10_pandas.ipynb). When I find the time I would like to prepare something about pandas.
 
 
 Each lecture has some exercises at the end.
