@@ -20,8 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@v2
-        - run: ls -R ${{ github.workspace }} >> artifacts/myls.txt
+        - run: ls -R ${{ github.workspace }} >> ./artifacts/myls.txt
         - uses: actions/upload-artifact@v2
           with:
             name: myls.txt
-            path: artifacts
+            path: ./artifacts
