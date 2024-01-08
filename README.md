@@ -14,15 +14,15 @@ The python programming language and its library ecosystem are essential tools in
 2. [**Arrays: numpy**](lectures/L02_numpy.ipynb). Array. Shaping. Slicing. Masking. Avoid loops. 
 3. [**Plotting: matplotlib**](lectures/L03_matplotlib.ipynb). Pretty plotting. OO interface. Latex compatibility. Lines. Histograms. Contour maps. Annotations. Surfaces.
 4. [**Numerical methods: scipy**](lectures/L04_scipy.ipynb). Integration. Interpolation. Root finding. Initial value problems. Boundary value problems. Fitting. Fourier transforms. Linear algebra.
-5. [**Symbolic maths: mathematica**](lectures/L05_mathematica.ipynb) Simplification. Solvers. Calculus. Differential Equations
-6. [**Go faster: numba**](lectures/L06_numba.ipynb). Python extensions. Decorators. Just-in-time compilation.  
-7. [**Version control: git**](lectures/L07_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
-8. [**Package and deploy: pip**](lectures/L08_pip.ipynb). Module setup. Installation. Usage. Deployment.
-9. [**Unit testing: pytest**](lectures/L09_pytest.ipynb). Unit tests. Automated tests. Benchmark tests.
+5. [**Symbolic maths: mathematica**](lectures/L05_mathematica.nb) Simplification. Solvers. Calculus. Differential Equations
+6. [**Version control: git**](lectures/L06_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
+7. [**Go faster: numba and multiprocessing**](lectures/L07_numba_multiprocessing.ipynb). Python extensions. Decorators. Just-in-time compilation. Notions of parallel computing. Embarrassingly parallel tasks. 
+8. [**Code development: pytest and pip**](lectures/L08_pytest_pip.ipynb). Module setup. Installation. Usage. Deployment. Unit tests. Automated tests. Benchmark tests. Unit tests. Automated tests. Benchmark tests.
 
 Other (not covered in class):
 
-10. [**Symbolic maths: sympy**](lectures/L10_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
+9. [**Symbolic maths: sympy**](lectures/L09_sympy.ipynb). Symbols. Substitution. Simplification. Calculus. Solvers. Units.
+10. [**Data manipulation: pandas**](lectures/L10_pandas.ipynb). When I find the time I would like to prepare something about pandas.
 
 
 Each lecture has some exercises at the end.
@@ -85,11 +85,11 @@ Here is our timetable:
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
-Each notebook has some exercises at the end. Please fork this repository and add your codes to the `working` directory **of your fork**. I still need to iron out details, but I'm thinking about a format where students submit their codes and find bugs in those written by another student.
+Each notebook has some exercises at the end. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see the exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. If in doubt, feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
 
-Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **about 2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. You'll see the exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. If in doubt, feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
+That should be a total of **2 x 8 = 16** exercises. Hopefully you will have finished many of them during the lectures themselves. To submit your exercises, please fork this repository and add your codes to the `working` directory of your fork. Please send me an email with your github username to let me know you are done (do not send me code by email! Use git!). I will mark them in batches (about once a month) and communicate the outcome to the PhD secretary.
 
-I'm always happy to chat coding and science with you. My office is room U2-2007. 
+In general, I'm always happy to chat coding and science with you. My office is room U2-2007. 
 
 
 ## Credits
