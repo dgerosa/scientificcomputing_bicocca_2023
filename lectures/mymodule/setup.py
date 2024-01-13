@@ -1,11 +1,10 @@
-from setuptools import find_packages, setup
+from setuptools import setup, find_packages
 
 setup(name='mymodule',
-      description='test module for PHY 546',
-      url='https://github.com/sbu-python-class/mymodule',
-      author='Michael Zingale',
-      author_email='michael.zingale@stonybrook.edu',
-      license='BSD',
-      version="0.0.1",
+      description='test module for the SciComp class',
+      url='https://github.com/dgerosa',
+      author='Davide Gerosa',
+      author_email='davide.gerosa@unimib.it',
+      license='MIT',
       packages=find_packages(),
       install_requires=['numpy', 'matplotlib'])
