@@ -1,0 +1,1 @@
+from .mandel import * #This makes everything accessibile in the top-level namespace
