@@ -17,7 +17,7 @@ The python programming language and its library ecosystem are essential tools in
 5. [**Symbolic maths: mathematica**](lectures/L05_mathematica.nb) Simplification. Solvers. Calculus. Differential Equations
 6. [**Version control: git**](lectures/L06_git.ipynb). Why. Git walkthrough. SSH keys. Github. 
 7. [**Go faster: numba and multiprocessing**](lectures/L07_numba_multiprocessing.ipynb). Python extensions. Decorators. Just-in-time compilation. Notions of parallel computing. Embarrassingly parallel tasks. 
-8. [**Code development: pytest and pip**](lectures/L08_pytest_pip.ipynb). Module setup. Installation. Usage. Deployment. Unit tests. Automated tests. Benchmark tests. Unit tests. Automated tests. Benchmark tests.
+8. [**Code development: pytest, pip, cprofile**](lectures/L08_pytest_pip_cprofile.ipynb). Module setup. Module deployment. Unit tests. Automated tests. Benchmark tests. Profiling.
 
 Other (not covered in class):
 
@@ -78,7 +78,7 @@ Here is our timetable:
 ### Prerequisites
 
 - Please come to class with your laptop.
-- Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I reccommend using brew on macOs and anaconda on Windows.
+- Make sure to have a working python distribution already installed and fully working (with privileges to `pip install` packages). If you've never installed python, I recommend using brew on macOs and anaconda on Windows.
 - Also, install Mathematica (this is free for Milano-Bicocca PhD students, see [here](https://www.unimib.it/servizi/studenti-e-laureati/service-desk/software-campus), otherwise you can get a 30-day free trial).
 
 ### Exams
