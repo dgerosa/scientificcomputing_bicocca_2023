@@ -57,4 +57,5 @@ def main():
     size = (60,40)
     init = np.random.choice([0,1], size=size, p=(0.5, 0.5))
     GoL = game_of_life(size, init, 200)
-    GoL.play()
+    anim = GoL.play()
+    plt.show()
