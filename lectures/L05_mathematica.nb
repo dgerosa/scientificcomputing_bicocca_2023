@@ -50207,7 +50207,7 @@ Cell[TextData[{
     RowBox[{"-", "x"}]], TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "69649aeb-f6f2-4a33-8f79-252c6877a5c4"],
- ", and then take it\[CloseCurlyQuote]s derivative."
+ ", and then take its derivative."
 }], "Text",
  CellChangeTimes->{{3.9102408807548604`*^9, 
   3.910240905162507*^9}},ExpressionUUID->"cd159cfc-7b9e-4a17-a559-\
