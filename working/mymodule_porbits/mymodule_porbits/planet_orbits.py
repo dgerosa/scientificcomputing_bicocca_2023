@@ -2,6 +2,7 @@ from scipy import integrate
 import matplotlib.pyplot as plt
 import matplotlib as mp
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
+import numpy as np
 
 mp.rc('text', usetex=True)
 mp.rcParams['axes.labelsize']  = 20

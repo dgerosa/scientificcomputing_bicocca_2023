@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='mymodule', 
+setup(name='mymodule_porbits', 
       description='show solar system planet orbits', 
       url='https://github.com/Davi9915', 
       author='Davide Tornotti', 
