@@ -1,0 +1,21 @@
+name: Egocentric
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Check README.md
+      run: |
+        if ! grep -q "Marco" README.md; then
+          echo "README.md does not contain the name: Marco."
+          exit 1
+        else
+          echo "README.md contains the name: Marco."
+        fi
+        echo "Job status: ${{ job.status }}."
