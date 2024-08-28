@@ -1,3 +1,6 @@
+# Q2: Egocentric
+# Write a github action that lets you commit only if README.md contains your name.
+
 name: Egocentric
 
 on: [push]
