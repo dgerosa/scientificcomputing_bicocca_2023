@@ -8,16 +8,16 @@ jobs:
 
         steps:
         - name: Checkout repository
-            uses: actions/checkout@v2
+          uses: actions/checkout@v2
 
         - name: Check if README contains your name
-            id: check_readme
-            run: |
-                if ! grep -q "Your Name" README.md; then
-                    echo "README does not contain your name!"
-                    exit 1
-                fi
+          id: check_readme
+          run: |
+              if ! grep -q "Matteo Boschini" README.md; then
+                  echo "README does not contain your name!"
+                  exit 1
+              fi
 
         - name: Allow commit if README contains your name
-            if: steps.check_readme.outcome == 'success'
-            run: echo "README contains your name. Commit allowed."
+          if: steps.check_readme.outcome == 'success'
+          run: echo "README contains your name. Commit allowed."
