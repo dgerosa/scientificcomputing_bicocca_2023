@@ -1,5 +1,8 @@
 
-# Scientific Computing with Python
+# Scientific Computing with Python - exercises by Matteo Boschini
+
+(sorry, now I need also my name, otherwise the GitHub action won't work)
+
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
 University of Milano-Bicocca, 2023-2024.
