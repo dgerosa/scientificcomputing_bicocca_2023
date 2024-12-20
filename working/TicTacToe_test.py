@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+from IPython.display import clear_output
+from IPython import get_ipython
 import sys
 
 class TicTacToe:
@@ -7,40 +10,62 @@ class TicTacToe:
 
     def __init__(self):
         """Class constructor. Initialize the basic elements"""
+           
         self.move = {f's{i}':"" for i in range(1,10)}
         self.board = """
- {s1:^3} | {s2:^3} | {s3:^3}       1  2  3
+ {s1:^3} | {s2:^3} | {s3:^3}       1   2   3
 -----+-----+-----
- {s4:^3} | {s5:^3} | {s6:^3}       4  5  6
+ {s4:^3} | {s5:^3} | {s6:^3}       4   5   6
 -----+-----+-----      
- {s7:^3} | {s8:^3} | {s9:^3}       7  8  9       
+ {s7:^3} | {s8:^3} | {s9:^3}       7   8   9       
                          
 """
         self.wins = {'Player 1':0, 'Player 2':0, 'Draw':0}
+        self.env = self.check_running_env()
 
+
+    def check_running_env(self):
+        """Check if the code is running in a Jupyter notebook or in a terminal"""
+        try:
+            if get_ipython().__class__.__name__ == 'ZMQInteractiveShell':
+                return 'notebook'
+            else:
+                return 'terminal'
+        except NameError:
+            return 'terminal'
+        
+        
     def reset_board(self):
         """Reset the board keeping the scoring"""
         self.move = {f's{i}':"" for i in range(1,10)}
         self.board = """
- {s1:^3} | {s2:^3} | {s3:^3}       1  2  3
+ {s1:^3} | {s2:^3} | {s3:^3}       1   2   3
 -----+-----+-----
- {s4:^3} | {s5:^3} | {s6:^3}       4  5  6
+ {s4:^3} | {s5:^3} | {s6:^3}       4   5   6
 -----+-----+-----      
- {s7:^3} | {s8:^3} | {s9:^3}       7  8  9       
+ {s7:^3} | {s8:^3} | {s9:^3}       7   8   9       
                          
 """
 
+        
     def show_board(self):
         """Display the current state of the board"""
-
-        sys.stdout.write('\033[H\033[J')  # Move cursor to top-left and clear screen
-        print("""\n 
+        if self.env == 'notebook':
+            clear_output()
+            print("""\n 
         *******************
         *\033[1m Tic - Tac - Toe \033[0m*
         *******************
-        \n""")
-        sys.stdout.write(self.board.format(**self.move))
-        sys.stdout.flush()
+        \n""" + self.board.format(**self.move))
+        
+        elif self.env == 'terminal':
+            text = '''\033[H\033[J\n 
+            *******************
+            *\033[1m Tic - Tac - Toe \033[0m*
+            *******************\n
+            ''' + self.board.format(**self.move)
+            sys.stdout.write(text)
+            sys.stdout.flush()
 
 
     def get_move(self, n, XO):
@@ -49,18 +74,18 @@ class TicTacToe:
         the desired square """
         valid_move = False
         while not valid_move:
-            idx = input(f'Player {n}, enter your move (1-9) (or q to quit): ')
-            if idx == 'q':
-                quit()
+            move = input(f'Player {n}, enter your move (1-9) (or q to quit): ')
+            if 'q' in move:
+                raise KeyboardInterrupt
             try: 
-                if int(idx) in range(1, 10) and self.move[f's{idx}'] == "":
+                if int(move) in range(1, 10) and self.move[f's{move}'] == "":
                     valid_move = True
                 else:
-                    print(f'Invalid move: {self.move[f"s{idx}"]}')
+                    print(f'Invalid move: {self.move[f"s{move}"]}')
             except ValueError:
                 print('Please, enter a valid move')
               
-        self.move[f's{idx}'] = XO
+        self.move[f's{move}'] = XO
 
 
     def check_winner(self):
@@ -93,7 +118,7 @@ class TicTacToe:
     def play_a_game(self):
         """Play a single game of tic-tac-toe """
         rand_start = input('Start the game with a random player (y/n): ')
-        if rand_start == 'y':
+        if 'y' in rand_start:
             player = {1,2}.pop()
         else:
             player = input('Insert starting player (1 or 2): ')
@@ -105,7 +130,10 @@ class TicTacToe:
         while '' in self.move.values():
             if player == 1: XO = 'X'
             else: XO = 'O'
-            self.get_move(player, XO)
+            try:
+                self.get_move(player, XO)
+            except KeyboardInterrupt:
+                break
             self.show_board()
             player = ({1,2} - {player}).pop()
             win, winner = self.check_winner()
@@ -156,6 +184,8 @@ Draw     | {self.wins['Draw']}
         self.score()
             
             
-if __name__ == "__main__":
+        
+        
+if __name__ == '__main__':
     game = TicTacToe()
     game.play()

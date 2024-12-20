@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tictactoe_2Players"
+version = "0.0.2"
+description = "Play Tic-Tac-Toe with your friends!"
+readme = "README.md"
+requires-python = ">=3.6"
+authors = [
+    { name = "Matteo Boschini", email = "m.boschini1@campus.unimib.it" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/m-boschini/scientificcomputing_bicocca_2023/tree/main/working/tictactoe_game"
